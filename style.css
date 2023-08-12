@@ -1,0 +1,19 @@
+.btn
+{
+
+    background-color: #c294d9;
+	border-radius: 13px;
+	color: #fff;
+	width: 270px;
+}
+
+.column
+{
+    width: 240px;
+}
+.background
+{
+    background-color: #a9d1ff;
+    padding: 15%;
+    text-align: center;
+}
